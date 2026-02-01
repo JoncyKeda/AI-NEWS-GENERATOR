@@ -15,8 +15,4 @@ This project leverages CrewAI and Cohere's Command-R:7B model to build an AI new
    pip install crewai crewai-tools
    ```
 
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
 AUTHOR - JONCY KEDA
